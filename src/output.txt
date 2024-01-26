@@ -1,0 +1,9 @@
+"HaCiXMEW (Position ID: WFS000536) has less than 10 hours but more than 1 hour between shifts.
+"CEreira Jr (Position ID: WFS000456) has less than 10 hours but more than 1 hour between shifts.
+"MraW (Position ID: WFS000345) has less than 10 hours but more than 1 hour between shifts.
+"De Xa Cerda (Position ID: WFS000318) has less than 10 hours but more than 1 hour between shifts.
+"REdrigAez (Position ID: WFS000550) has less than 10 hours but more than 1 hour between shifts.
+"CaMaXaWE (Position ID: WFS000153) has less than 10 hours but more than 1 hour between shifts.
+"DeXgadiXXE REdarMe (Position ID: WFS000523) has less than 10 hours but more than 1 hour between shifts.
+"DeXgadiXXE REdarMe (Position ID: WFS000523) worked for more than 14 hours in a single shift.
+"Xee (Position ID: WFS000200) has less than 10 hours but more than 1 hour between shifts.
